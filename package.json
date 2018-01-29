@@ -1,0 +1,26 @@
+{
+  "name": "personal_site",
+  "version": "1.0.0",
+  "description": "My personal portfolio!",
+  "main": "index.js",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "http-server": "^0.11.1",
+    "node-sass": "^4.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwinslow123/personal_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwinslow123/personal_site/issues"
+  },
+  "homepage": "https://github.com/dwinslow123/personal_site#readme"
+}
