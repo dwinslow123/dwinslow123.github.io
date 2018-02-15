@@ -178,7 +178,6 @@ PROJECTS
 .project-list {
   display: flex;
   flex-flow: wrap;
-  justify-content: center;
   height: 100%;
   width: 98%; }
   @media (max-width: 468px) {
@@ -212,7 +211,7 @@ PROJECTS
       background-color: #FEFFFF;
       color: #17252A;
       padding: 1rem;
-      height: 35%;
+      height: 40%;
       border: 1px solid black;
       font-size: .95rem;
       box-shadow: 1px 1px 1px #17252A; }
